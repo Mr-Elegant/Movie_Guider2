@@ -27,11 +27,6 @@ const MovieDetails = () => {
     }
   },[id])
 
-
-  
-
-  
-
   return info ? (
     <div
       style={{
