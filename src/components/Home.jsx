@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Sidenav from "./partials/Sidenav";
 import Topnav from "./partials/Topnav";
 import axios from "../utils/axios"
-import Header from "./partials/header";
+import Header from "./partials/Header";
 import HorizontalCards from "./partials/HorizontalCards";
 import Dropdown from "./partials/Dropdown";
 import Loading from "./partials/Loading";
